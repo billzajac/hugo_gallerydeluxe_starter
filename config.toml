@@ -1,5 +1,5 @@
-baseURL      = "https://www.example.com/"
-title        = "Gallery Deluxe"
+baseURL      = "https://starfinger.design/"
+title        = "Selma Starfinger"
 disableKinds = ["section", "taxonomy", "term"]
 
 [params]
@@ -15,7 +15,7 @@ disableKinds = ["section", "taxonomy", "term"]
 
         # Enable Exif data in the gallery.
         # See https://gohugo.io/content-management/image-processing/#exif-data for how to filter tags.
-        enable_exif = true
+        enable_exif = false
 
 [caches]
     [caches.images]
